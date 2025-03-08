@@ -52,8 +52,5 @@ A **web-based application** built using **Java Servlets, MySQL, and JavaScript**
 
 📹 **Watch the project in action!**  
 
-<video width="700" controls>
-  <source src="Demo_Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+💾 You can find the video file here: **Demo_Video.mp4**  
 ---
