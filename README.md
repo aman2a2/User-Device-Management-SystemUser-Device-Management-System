@@ -35,9 +35,6 @@ The system uses **three relational tables**:
 🔹 **DeviceType Table** lists all available devices.  
 🔹 **Uses Table** records device usage history.  
 
-📌 **ER Diagram:**  
-![ER Diagram](images/er-diagram.png)  
-
 ---
 
 ## 🚀 Getting Started  
