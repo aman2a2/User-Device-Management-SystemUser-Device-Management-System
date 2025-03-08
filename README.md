@@ -30,3 +30,21 @@ A **web-based application** built using **Java Servlets** for the backend and **
 
 The system uses **three relational tables**:  
 
+
+🔹 **Users Table** stores user details.  
+🔹 **DeviceType Table** lists all available devices.  
+🔹 **Uses Table** records device usage history.  
+
+📌 **ER Diagram:**  
+![ER Diagram](images/er-diagram.png)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/YOUR_USERNAME/user-device-management-overview.git
+cd user-device-management-overview
+
+
