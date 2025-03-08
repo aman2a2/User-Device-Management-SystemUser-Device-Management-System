@@ -1,47 +1,54 @@
-# User-Device-Management-SystemUser-Device-Management-System
-# 📱 User Device Management System
+# 📱 User Device Management System  
 
-A **web-based application** built using **Java Servlets** for the backend and **JavaScript + HTML** for the frontend, designed to manage user devices efficiently. It allows users to **search, add, update, and delete users**, as well as track device usage history. 🔍📊  
+A **web-based application** built using **Java Servlets, MySQL, and JavaScript** for managing users and tracking device usage efficiently.  
 
-## 🎯 Features  
-
-✅ **User Management:** Create, search, update, and delete users.  
-✅ **Device Usage Tracking:** Record which user used which device and for how long.  
-✅ **Advanced Search:** Filter device usage history within a specific date range.  
-✅ **RESTful API:** Uses Java Servlets and JDBC to interact with MySQL.  
-✅ **AJAX Integration:** Dynamic page updates without full reloads.  
+![Project Screenshot](https://via.placeholder.com/800x400.png?text=User+Device+Management+System)  
 
 ---
 
-## 🖥️ Tech Stack  
+## 🚀 Features  
 
-| **Technology** | **Usage** |
-|---------------|----------|
-| Java Servlets | Backend API |
-| JDBC | Database Connectivity |
-| MySQL | Relational Database |
-| HTML, CSS, JavaScript | Frontend |
-| AJAX | Asynchronous requests |
-| Apache Tomcat | Web Server |
+✅ **User Management**: Create, search, update, and delete users.  
+✅ **Device Usage Tracking**: Record and retrieve user device usage history.  
+✅ **Advanced Search**: Filter user usage history by date range.  
+✅ **RESTful API**: Java Servlets for backend communication.  
+✅ **AJAX Implementation**: Real-time interactions with the database.  
+✅ **MySQL Database**: Efficient storage with relational schema.  
 
 ---
 
-## 📌 Database Schema  
+## 🛠️ Tech Stack  
 
-The system uses **three relational tables**:  
-
-
-🔹 **Users Table** stores user details.  
-🔹 **DeviceType Table** lists all available devices.  
-🔹 **Uses Table** records device usage history.  
+- **Backend**: Java Servlets, JDBC  
+- **Frontend**: HTML, CSS, JavaScript, AJAX  
+- **Database**: MySQL (phpMyAdmin)  
+- **Server**: Apache Tomcat  
 
 ---
 
-## 🚀 Getting Started  
+## 📸 Screenshots  
 
-### 1️⃣ **Clone the Repository**  
-```sh
-git clone https://github.com/YOUR_USERNAME/user-device-management-overview.git
-cd user-device-management-overview
+### 🖥️ **Dashboard**  
+![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard+View)  
 
+### 🔍 **User Search**  
+![Search Screenshot](https://via.placeholder.com/800x400.png?text=Search+User+Feature)  
 
+### 📊 **Device Usage Tracking**  
+![Usage Screenshot](https://via.placeholder.com/800x400.png?text=Device+Usage+History)  
+
+---
+
+## 🎬 Demo Video  
+
+📹 **Watch the project in action!**  
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+
+---
+
+## 📦 Installation & Setup  
+
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/YOUR_USERNAME/user-device-management.git
+cd user-device-management
