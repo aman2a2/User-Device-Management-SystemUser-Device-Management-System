@@ -51,15 +51,9 @@ A **web-based application** built using **Java Servlets, MySQL, and JavaScript**
 ## 🎬 Demo Video  
 
 📹 **Watch the project in action!**  
-[![Demo Video](Demo_Video.mp4)  
 
-💾 You can also find the video file here: **Demo_Video.mp4**  
-
+<video width="700" controls>
+  <source src="Demo_Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ---
-
-## 📦 Installation & Setup  
-
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/YOUR_USERNAME/user-device-management.git
-cd user-device-management
