@@ -2,7 +2,7 @@
 
 A **web-based application** built using **Java Servlets, MySQL, and JavaScript** for managing users and tracking device usage efficiently.  
 
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=User+Device+Management+System)  
+![Dashboard](Dashboard.png)  
 
 ---
 
@@ -29,13 +29,22 @@ A **web-based application** built using **Java Servlets, MySQL, and JavaScript**
 ## 📸 Screenshots  
 
 ### 🖥️ **Dashboard**  
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png?text=Dashboard+View)  
+![Dashboard](Dashboard.png)  
+
+### 🏷️ **Create User**  
+![Create User](Create_User.png)  
+
+### ✏️ **Update User Information**  
+![Update User](Update_User_info.png)  
 
 ### 🔍 **User Search**  
-![Search Screenshot](https://via.placeholder.com/800x400.png?text=Search+User+Feature)  
+![User Search](User_Search.png)  
 
-### 📊 **Device Usage Tracking**  
-![Usage Screenshot](https://via.placeholder.com/800x400.png?text=Device+Usage+History)  
+### 📊 **Advanced Search (User Device Usage)**  
+![Advanced Search](User_Device_Search.png)  
+
+### ⏳ **Add Device Usage**  
+![Add Device Usage](Add_Device_Usage.png)  
 
 ---
 
@@ -43,6 +52,8 @@ A **web-based application** built using **Java Servlets, MySQL, and JavaScript**
 
 📹 **Watch the project in action!**  
 [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+
+💾 You can also find the video file here: **Demo_Video.mp4**  
 
 ---
 
