@@ -51,7 +51,7 @@ A **web-based application** built using **Java Servlets, MySQL, and JavaScript**
 ## 🎬 Demo Video  
 
 📹 **Watch the project in action!**  
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Demo Video](Demo_Video.mp4)  
 
 💾 You can also find the video file here: **Demo_Video.mp4**  
 
